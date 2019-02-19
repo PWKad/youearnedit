@@ -1,5 +1,7 @@
 # README
 
+![](yei-cards.png?raw=true)
+
 ## Overview
 
 This project is built from the [YEI GitHub repository](https://github.com/youearnedit/yei_challenge_ruby).  The version of ruby and rails are inherited from that project and locked at -
