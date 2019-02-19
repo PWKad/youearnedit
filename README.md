@@ -1,3 +1,13 @@
+# Please see the `youearnedit` directory for the actual code submission, leaving legacy project structure in place for requirements outline.
+
+[Click here](https://github.com/PWKad/youearnedit/tree/master/youearnedit)
+
+--------- 
+
+Original
+
+---------
+
 # YouEarnedIt Ruby Code Challenge
 
 Hello!  We're so thrilled you're applying to join us at YEI!
