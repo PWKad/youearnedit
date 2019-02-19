@@ -1,0 +1,1 @@
+json.extract! issue, :id, :created_at, :updated_at, :github_id, :node_id, :url, :repository_url, :comments_url, :number, :state, :title, :body, :locked, :active_lock_reason, :comments, :closed_at, :user, :labels

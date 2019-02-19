@@ -1,3 +1,6 @@
+ENV['OCTOKIT_TEST_GITHUB_LOGIN'] = ENV['GITHUB_USERNAME']
+ENV['OCTOKIT_TEST_GITHUB_PASSWORD'] = ENV['GITHUB_USERNAME']
+
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 

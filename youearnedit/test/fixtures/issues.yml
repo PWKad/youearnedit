@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mongo_id: MyString
+  node_id: MyString
+  url: MyString
+  repository_url: MyString
+  comments_url: MyString
+  number: 
+  state: MyString
+  title: MyString
+  body: MyText
+  user: 
+  labels: 
+  assignee: 
+  assignees: 
+  locked: false
+  active_lock_reason: MyString
+  comments: 1
+  closed_at: 
+
+two:
+  mongo_id: MyString
+  node_id: MyString
+  url: MyString
+  repository_url: MyString
+  comments_url: MyString
+  number: 
+  state: MyString
+  title: MyString
+  body: MyText
+  user: 
+  labels: 
+  assignee: 
+  assignees: 
+  locked: false
+  active_lock_reason: MyString
+  comments: 1
+  closed_at: 
