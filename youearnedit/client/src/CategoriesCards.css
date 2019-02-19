@@ -1,0 +1,46 @@
+.categories-cards {
+  text-align: center;
+  background-color: #282c34;
+  padding: 10px;
+}
+
+.card {
+  margin: 10px;
+  min-height: calc(10vh);
+  color: white;
+  border-radius: 5px;
+}
+
+.color-0 {
+  background-color: #740017;
+}
+.color-1 {
+  background-color: #DC002D;
+}
+.color-2 {
+  background-color: #D83F55;
+}
+.color-3 {
+  background-color: #000000;
+}
+.color-4 {
+  background-color: #DC002D;
+}
+.color-5 {
+  background-color: #740017;
+}
+.color-6 {
+  background-color: #000000;
+}
+.color-7 {
+  background-color: #D83F55;
+}
+.color-8 {
+  background-color: #740017;
+}
+.color-9 {
+  background-color: #DC002D;
+}
+.color-10 {
+  background-color: #D83F55;
+}
