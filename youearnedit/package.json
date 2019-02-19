@@ -1,5 +1,9 @@
 {
   "name": "YouEarnedIt",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "start": "cd client && npm start",
+    "test": "cd client && npm test"
+  }
 }

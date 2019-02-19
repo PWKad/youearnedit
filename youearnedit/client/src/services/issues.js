@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-class Issue {
+export class Issue {
   github_id = '';
   node_id = '';
   url = '';
@@ -22,7 +22,6 @@ class Issue {
     Object.assign(this, data);
   }
 }
-
 
 export default class IssuesService {
   getIssues() {

@@ -55,10 +55,11 @@ class App extends Component {
 
       if (sort === 'desc') { issues.reverse(); }
     }
-
-    this.setState(state => ({displayIssues: issues}));
+    this.setDisplayIssues(issues);
   }
-
+  setDisplayIssues(displayIssues) {
+    this.setState(state => ({displayIssues}));
+  }
   render() {
     return (
       <div className="app">

@@ -7,16 +7,17 @@ export default class IssuesTable extends Component {
   }
   toggleCommentSort = () => {
     const sort = this.state.sort;
-    let newSort;
 
     if (sort === 'asc') {
-      newSort = 'desc';
+      this.setSort('desc');
     } else {
-      newSort = 'asc';
+      this.setSort('asc');
     }
-    this.setState({sort: newSort});
+  }
+  setSort(sort) {
+    this.setState({sort});
 
-    this.props.filterSortIssues(newSort);
+    this.props.filterSortIssues(sort);
   }
   render() {
     return (
